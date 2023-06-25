@@ -7,9 +7,10 @@ youtube.com/@TeacherPingPing
 #書法教學 #書法創作
 
 # 書法創作
-## 萍萍ping2
-{%youtube Kqb416eagv0%}
-{%youtube EHAytKzhIXE%}
+## 萍萍老師大頭貼
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kqb416eagv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EHAytKzhIXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 畢業祝福書籤
 https://www.youtube.com/watch?v=Yyq67Zz_uFA  
@@ -30,6 +31,10 @@ https://www.youtube.com/watch?v=RKpSGNDL0Zg
 福慧相隨 璀璨人生［知足常樂］  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RKpSGNDL0Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## 挑戰2張全開巨幅
+https://www.youtube.com/watch?v=6dUey2ihw18  
+歡迎淡江劍友會-挑戰2張全開巨幅-藍底白字花邊-海報  
+<iframe src="https://www.facebook.com/plugins/video.php?height=560&href=https%3A%2F%2Fwww.facebook.com%2Fping2.tw%2Fvideos%2F124367947061348%2F&show_text=false&width=267&t=0" width="560" height="560" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 
 # 書法教學
