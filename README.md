@@ -4,6 +4,7 @@
 北市文化國小李玉萍老師  
 [https://ping2.tw](https://ping2.tw)  
 [instagram.com/ping2.tw](https://instagram.com/ping2.tw)  
+[facebook.com/ping2.tw](https://facebook.com/ping2.tw)  
 [youtube.com/@TeacherPingPing](https://youtube.com/@TeacherPingPing)  
 *#書法教學* *#書法創作*
 
